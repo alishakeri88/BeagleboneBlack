@@ -6,9 +6,8 @@
 // 6lowpan IP = 0x0001
 // PAN ID = 0x0022
 
-// It receives packets and send them over USB0 network	
-// to the NUC board.
-// Following is the set of configurations for the socket connection
+// It receives packets and send them over USB0 network to the NUC board.
+// Following is the set of configurations for the socket connection (client side)
 // If this program compiled with the name test you can run it as ./test 192.168.7.1 2000
 // 192.168.7.1 is the address of NUC
 // 2000 is the port number
