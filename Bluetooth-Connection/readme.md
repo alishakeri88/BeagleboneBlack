@@ -7,7 +7,7 @@ Follow these steps before getting started:
 -Power the device using an external 5 volt supply.
 -"ssh" into the device from NUC by typing the following:
 
-  ssh 192.168.7.2
+  # ssh 192.168.7.2
 
 Make sure the Dongle is recognized by entering the following command:
 
