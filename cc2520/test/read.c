@@ -23,7 +23,7 @@
 #include <netdb.h>
 #include <fcntl.h>
 #include <sys/ioctl.h>
-#include "./ioctl.h"
+#include "../ioctl.h"
 #include <unistd.h>
 
 void error(const char *msg)
